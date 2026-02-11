@@ -15,6 +15,18 @@ This platform helps analyze customer spending patterns based on:
 
 It provides actionable insights for revenue optimization and customer segmentation.
 
+
+## 📸 Dashboard Preview
+
+### 🔹 Main Dashboard
+![Dashboard](assets/dashboard.png)
+
+### 🔹 Correlation Heatmap
+![Heatmap](assets/heatmap.png)
+
+### 🔹 Filters & Controls
+![Filters](assets/filters.png)
+
 ---
 
 ## 🔥 Features
