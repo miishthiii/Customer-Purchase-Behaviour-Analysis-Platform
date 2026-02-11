@@ -6,6 +6,9 @@
 
 An interactive Business Intelligence dashboard built using **Python & Streamlit** to analyze customer purchase behavior through dynamic filtering, KPI metrics, and data visualizations.
 
+## 🌐 Live Demo
+
+👉 https://customer-purchase-behaviour-analysis-platform.streamlit.app/
 
 ## 🚀 Project Overview
 
