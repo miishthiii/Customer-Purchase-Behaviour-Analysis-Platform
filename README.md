@@ -19,13 +19,13 @@ It provides actionable insights for revenue optimization and customer segmentati
 ## 📸 Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ### 🔹 Correlation Heatmap
-![Heatmap](assets/heatmap.png)
+![Heatmap](assets/Heatmap.png)
 
 ### 🔹 Filters & Controls
-![Filters](assets/filters.png)
+![Filters](assets/Filters.png)
 
 ---
 
