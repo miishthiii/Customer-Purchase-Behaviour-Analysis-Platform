@@ -1,8 +1,11 @@
 # 📊 Customer Purchase Behaviour Analysis Platform
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 An interactive Business Intelligence dashboard built using **Python & Streamlit** to analyze customer purchase behavior through dynamic filtering, KPI metrics, and data visualizations.
 
----
 
 ## 🚀 Project Overview
 
